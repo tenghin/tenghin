@@ -1,4 +1,4 @@
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=tenghin&theme=vue-dark&show_icons=true&hide_border=true&count
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=tenghin&theme=vue-dark&show_icons=true&hide_border=true&count)
 
 <!--
 **tenghin/tenghin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
